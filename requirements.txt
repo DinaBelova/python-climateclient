@@ -1,0 +1,7 @@
+cliff
+prettytable
+python-keystoneclient
+requests
+setuptools
+six
+Babel>=0.9.6
